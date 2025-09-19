@@ -61,9 +61,9 @@ namespace CleanArchitecture.Application.Service
         {
             return playerRepository.RefreshVerificationCode(newCode);
         }
-        Task IPlayerService.VerifyAccount(VerificationCode newCode)
+        Task IPlayerService.VerifyAccount(VerificationCode newCode, string number)
         {
-            return playerRepository.VerifyAccount(newCode);
+            return playerRepository.VerifyAccount(newCode, number);
         }
     }
 }

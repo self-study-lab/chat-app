@@ -1,0 +1,177 @@
+[
+  {
+    "ContainingType": "Splendor_Game_Server.Controllers.PlayersController",
+    "Method": "GetAll",
+    "RelativePath": "api/Players",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Splendor_Game_Server.Controllers.PlayersController",
+    "Method": "Post",
+    "RelativePath": "api/Players",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newplayer",
+        "Type": "BusinessObject.DTO.PostPlayer",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Splendor_Game_Server.Controllers.PlayersController",
+    "Method": "Get",
+    "RelativePath": "api/Players/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Splendor_Game_Server.Controllers.PlayersController",
+    "Method": "Update",
+    "RelativePath": "api/Players/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "updatedplayer",
+        "Type": "CleanArchitecture.Domain.Model.Player.Player",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Splendor_Game_Server.Controllers.PlayersController",
+    "Method": "Delete",
+    "RelativePath": "api/Players/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Splendor_Game_Server.Controllers.PlayersController",
+    "Method": "ChangPassword",
+    "RelativePath": "api/Players/ChangePassword",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "player",
+        "Type": "CleanArchitecture.Domain.DTO.Player.ChangePasswordPlayer",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Splendor_Game_Server.Controllers.PlayersController",
+    "Method": "GetLogin",
+    "RelativePath": "api/Players/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "acc",
+        "Type": "Splendor_Game_Server.DTO.Player.LoginPlayer",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Splendor_Game_Server.Controllers.PlayersController",
+    "Method": "GetLoginGoogle",
+    "RelativePath": "api/Players/Login_Google",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "token",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Splendor_Game_Server.Controllers.PlayersController",
+    "Method": "RefreshVerificationCode",
+    "RelativePath": "api/Players/Refresh_Verification_Code",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newVerify",
+        "Type": "CleanArchitecture.Domain.DTO.Player.RefreshVerificationCodePlayer",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Splendor_Game_Server.Controllers.PlayersController",
+    "Method": "Register",
+    "RelativePath": "api/Players/Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "player",
+        "Type": "BusinessObject.DTO.PostPlayer",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Splendor_Game_Server.Controllers.PlayersController",
+    "Method": "VerificationPlayer",
+    "RelativePath": "api/Players/Verification_Player",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newVerify",
+        "Type": "CleanArchitecture.Domain.DTO.Player.VerifyPlayer",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

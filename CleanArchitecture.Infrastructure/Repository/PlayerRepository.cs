@@ -220,7 +220,7 @@ namespace CleanArchitecture.Infrastructure.Repository
                 throw new Exception(ex.Message);
             }
         }
-        public async Task VerifyAccount(VerificationCode newVerify)
+        public async Task VerifyAccount(VerificationCode newVerify, string code)
         {
             try
             {
@@ -233,7 +233,7 @@ namespace CleanArchitecture.Infrastructure.Repository
                 {
                     throw new Exception("Username is not exist");
                 }
-                if (existingCode.Code == newVerify.Code)
+                if (existingCode.Code == code)
                 {
                     if (timeDifference.TotalMinutes <= 10)
                     {

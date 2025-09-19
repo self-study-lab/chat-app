@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\khoad\\Desktop\\WorkPlace\\chat-app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFB01168-DFDF-4BAF-9A37-1431880EC1D1}|Splendor_Game_Server\\Splendor_Game_Server.csproj|c:\\users\\khoad\\desktop\\workplace\\chat-app\\splendor_game_server\\controllers\\playerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFB01168-DFDF-4BAF-9A37-1431880EC1D1}|Splendor_Game_Server\\Splendor_Game_Server.csproj|solutionrelative:splendor_game_server\\controllers\\playerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0317103-D8AD-4606-B969-C3BB84F01238}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\khoad\\desktop\\workplace\\chat-app\\cleanarchitecture.application\\irepository\\iplayerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0317103-D8AD-4606-B969-C3BB84F01238}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\irepository\\iplayerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0317103-D8AD-4606-B969-C3BB84F01238}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\khoad\\desktop\\workplace\\chat-app\\cleanarchitecture.application\\service\\playerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0317103-D8AD-4606-B969-C3BB84F01238}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\service\\playerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C6BA3F-8E59-4FC5-ABF0-545D1D85BD70}|CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj|c:\\users\\khoad\\desktop\\workplace\\chat-app\\cleanarchitecture.infrastructure\\repository\\playerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C6BA3F-8E59-4FC5-ABF0-545D1D85BD70}|CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj|solutionrelative:cleanarchitecture.infrastructure\\repository\\playerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0317103-D8AD-4606-B969-C3BB84F01238}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\khoad\\desktop\\workplace\\chat-app\\cleanarchitecture.application\\iservice\\iplayerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0317103-D8AD-4606-B969-C3BB84F01238}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\iservice\\iplayerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFB01168-DFDF-4BAF-9A37-1431880EC1D1}|Splendor_Game_Server\\Splendor_Game_Server.csproj|c:\\users\\khoad\\desktop\\workplace\\chat-app\\splendor_game_server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BFB01168-DFDF-4BAF-9A37-1431880EC1D1}|Splendor_Game_Server\\Splendor_Game_Server.csproj|solutionrelative:splendor_game_server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFB01168-DFDF-4BAF-9A37-1431880EC1D1}|Splendor_Game_Server\\Splendor_Game_Server.csproj|c:\\users\\khoad\\desktop\\workplace\\chat-app\\splendor_game_server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BFB01168-DFDF-4BAF-9A37-1431880EC1D1}|Splendor_Game_Server\\Splendor_Game_Server.csproj|solutionrelative:splendor_game_server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFB01168-DFDF-4BAF-9A37-1431880EC1D1}|Splendor_Game_Server\\Splendor_Game_Server.csproj|c:\\users\\khoad\\desktop\\workplace\\chat-app\\splendor_game_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFB01168-DFDF-4BAF-9A37-1431880EC1D1}|Splendor_Game_Server\\Splendor_Game_Server.csproj|solutionrelative:splendor_game_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerService.cs",
+              "DocumentMoniker": "C:\\Users\\khoad\\Desktop\\WorkPlace\\chat-app\\CleanArchitecture.Application\\Service\\PlayerService.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Service\\PlayerService.cs",
+              "ToolTip": "C:\\Users\\khoad\\Desktop\\WorkPlace\\chat-app\\CleanArchitecture.Application\\Service\\PlayerService.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Service\\PlayerService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwEEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T05:01:13.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPlayerService.cs",
+              "DocumentMoniker": "C:\\Users\\khoad\\Desktop\\WorkPlace\\chat-app\\CleanArchitecture.Application\\IService\\IPlayerService.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\IService\\IPlayerService.cs",
+              "ToolTip": "C:\\Users\\khoad\\Desktop\\WorkPlace\\chat-app\\CleanArchitecture.Application\\IService\\IPlayerService.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\IService\\IPlayerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T05:01:07.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPlayerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\khoad\\Desktop\\WorkPlace\\chat-app\\CleanArchitecture.Application\\IRepository\\IPlayerRepository.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\IRepository\\IPlayerRepository.cs",
+              "ToolTip": "C:\\Users\\khoad\\Desktop\\WorkPlace\\chat-app\\CleanArchitecture.Application\\IRepository\\IPlayerRepository.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\IRepository\\IPlayerRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA9wBIAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T05:01:09.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayersController.cs",
+              "DocumentMoniker": "C:\\Users\\khoad\\Desktop\\WorkPlace\\chat-app\\Splendor_Game_Server\\Controllers\\PlayersController.cs",
+              "RelativeDocumentMoniker": "Splendor_Game_Server\\Controllers\\PlayersController.cs",
+              "ToolTip": "C:\\Users\\khoad\\Desktop\\WorkPlace\\chat-app\\Splendor_Game_Server\\Controllers\\PlayersController.cs",
+              "RelativeToolTip": "Splendor_Game_Server\\Controllers\\PlayersController.cs",
+              "ViewState": "AgIAAOQAAAAAAAAAAAAAAPcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T04:27:52.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\khoad\\Desktop\\WorkPlace\\chat-app\\CleanArchitecture.Infrastructure\\Repository\\PlayerRepository.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Infrastructure\\Repository\\PlayerRepository.cs",
+              "ToolTip": "C:\\Users\\khoad\\Desktop\\WorkPlace\\chat-app\\CleanArchitecture.Infrastructure\\Repository\\PlayerRepository.cs",
+              "RelativeToolTip": "CleanArchitecture.Infrastructure\\Repository\\PlayerRepository.cs",
+              "ViewState": "AgIAAN0AAAAAAAAAAAAwwPMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T04:43:51.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\khoad\\Desktop\\WorkPlace\\chat-app\\Splendor_Game_Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Splendor_Game_Server\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\khoad\\Desktop\\WorkPlace\\chat-app\\Splendor_Game_Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Splendor_Game_Server\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwB8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-19T04:27:42.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\khoad\\Desktop\\WorkPlace\\chat-app\\Splendor_Game_Server\\Program.cs",
+              "RelativeDocumentMoniker": "Splendor_Game_Server\\Program.cs",
+              "ToolTip": "C:\\Users\\khoad\\Desktop\\WorkPlace\\chat-app\\Splendor_Game_Server\\Program.cs",
+              "RelativeToolTip": "Splendor_Game_Server\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T04:27:32.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\khoad\\Desktop\\WorkPlace\\chat-app\\Splendor_Game_Server\\appsettings.json",
+              "RelativeDocumentMoniker": "Splendor_Game_Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\khoad\\Desktop\\WorkPlace\\chat-app\\Splendor_Game_Server\\appsettings.json",
+              "RelativeToolTip": "Splendor_Game_Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-19T04:26:50.999Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

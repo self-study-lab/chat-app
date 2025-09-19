@@ -20,6 +20,6 @@ namespace CleanArchitecture.Application.IService
         Task<VerificationCode> GetVerificationCodeByUsername(string username);
         Task AddVerificationCode(VerificationCode newCode);
         Task RefreshVerificationCode(VerificationCode newCode);
-        Task VerifyAccount(VerificationCode newCode);
+        Task VerifyAccount(VerificationCode newCode, string number);
     }
 }

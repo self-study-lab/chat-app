@@ -1,0 +1,16 @@
+C:\Users\khoad\Desktop\WorkPlace\chat-app\CleanArchitecture.Application\bin\Debug\net6.0\CleanArchitecture.Application.deps.json
+C:\Users\khoad\Desktop\WorkPlace\chat-app\CleanArchitecture.Application\bin\Debug\net6.0\CleanArchitecture.Application.dll
+C:\Users\khoad\Desktop\WorkPlace\chat-app\CleanArchitecture.Application\bin\Debug\net6.0\CleanArchitecture.Application.pdb
+C:\Users\khoad\Desktop\WorkPlace\chat-app\CleanArchitecture.Application\bin\Debug\net6.0\CleanArchitecture.Domain.dll
+C:\Users\khoad\Desktop\WorkPlace\chat-app\CleanArchitecture.Application\bin\Debug\net6.0\CleanArchitecture.Domain.pdb
+C:\Users\khoad\Desktop\WorkPlace\chat-app\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.csproj.AssemblyReference.cache
+C:\Users\khoad\Desktop\WorkPlace\chat-app\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khoad\Desktop\WorkPlace\chat-app\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.AssemblyInfoInputs.cache
+C:\Users\khoad\Desktop\WorkPlace\chat-app\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.AssemblyInfo.cs
+C:\Users\khoad\Desktop\WorkPlace\chat-app\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.csproj.CoreCompileInputs.cache
+C:\Users\khoad\Desktop\WorkPlace\chat-app\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.sourcelink.json
+C:\Users\khoad\Desktop\WorkPlace\chat-app\CleanArchitecture.Application\obj\Debug\net6.0\CleanArc.03AFA812.Up2Date
+C:\Users\khoad\Desktop\WorkPlace\chat-app\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.dll
+C:\Users\khoad\Desktop\WorkPlace\chat-app\CleanArchitecture.Application\obj\Debug\net6.0\refint\CleanArchitecture.Application.dll
+C:\Users\khoad\Desktop\WorkPlace\chat-app\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.pdb
+C:\Users\khoad\Desktop\WorkPlace\chat-app\CleanArchitecture.Application\obj\Debug\net6.0\ref\CleanArchitecture.Application.dll

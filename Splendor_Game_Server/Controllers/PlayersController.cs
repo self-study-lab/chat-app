@@ -89,7 +89,7 @@ namespace Splendor_Game_Server.Controllers
                 VerificationCode listPlayer = await playerService.GetVerificationCodeByUsername(newVerify.Username);
                 if(listPlayer is null)
                 { return StatusCode(400, new { StatusCode = 400, Message = "Username is not exit" }); }
-                await playerService.VerifyAccount(listPlayer);
+                await playerService.VerifyAccount(listPlayer, newVerify.Code);
                 
                 return Ok(new { StatusCode = 200, Message = "Verify Player succedfully" });
             }
@@ -244,12 +244,15 @@ namespace Splendor_Game_Server.Controllers
                 var hashPassword = securityUtility.GenerateHashedPassword(newplayer.Password, saltPassword);
                 Player player = new Player
                 {
+
+
                     Id = Id,
                     IsActive = true,
                     Name = newplayer.Name,
                     Username = newplayer.Username,
                     HashedPassword = hashPassword,
                     SaltPassword = saltPassword,
+                    IsVerified = true
                 };
                 await playerService.AddMember(player);
 
